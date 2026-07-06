@@ -59,7 +59,9 @@
         "kty": "EC",
         "crv": "P-256",
         "x": "bwgnj4DCr6rEtSHTretksNAo48Y4Fcuh8vHU0Pym6UY",
-        "y": "-RZbZVO6fJaDlQzHVAICEztB6sZyc2WkQfIxv1Ll-P8"
+        "y": "-RZbZVO6fJaDlQzHVAICEztB6sZyc2WkQfIxv1Ll-P8",
+        "use": "sig",
+        "alg": "ES256"
       }
     ]
   }
